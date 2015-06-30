@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+	<importeMinimoPorApuesta>1</importeMinimoPorApuesta>
+	<importeMaximoPorApuesta>10</importeMaximoPorApuesta>
+	<importePorDefault>5</importePorDefault>
+	<alcanze>10</alcanze>
+	<importeMaximoDiario>2000</importeMaximoDiario>
+</config>
